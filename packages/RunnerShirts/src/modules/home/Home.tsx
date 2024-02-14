@@ -110,7 +110,7 @@ const Home = () => {
                 color="primary"
                 sx={{ width: '60%', height: '50px' }}
               >
-                Sign Up
+                Submit
               </SubmitButton>
             </Form>
           </FormProvider>

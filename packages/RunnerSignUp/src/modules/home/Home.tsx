@@ -41,7 +41,7 @@ const Home = () => {
       pt={12}
     >
       <Typography variant="h1" color="primary" mb={4}>
-        Runner Sign Ups
+        Runner Signup
       </Typography>
       {!submitted ? (
         <AnimatedStack keyId="form">
