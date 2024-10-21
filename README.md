@@ -93,3 +93,20 @@ This will start ngrok and provide a url which tunnels to Runner Signup app runni
 ## Using the App
 
 If using ngrok, go to the url displayed on your ngrok terminal window, otherwise go to `localhost:3000`. From there, just fill in the information, press "SIGN UP" and you'll see a thank page with a button link to Runner Shirts. Click it, and then fill out the information on Runner Shirts and press "SUBMIT". That completes the flow. You can now go to your PostHog dashboard and see the activities, user, and groups that have been created.
+
+## Resources
+
+[PostHog Documentation](https://posthog.com/docs)
+[Cross-Domain Tracking with PostHog](https://www.yeti.co/blog/cross-domain-product-analytics-with-posthog)
+
+## Contributing
+
+Contributions are welcome! Please open an issue or submit a pull request for any improvements.
+
+## License
+
+This project is licensed under the MIT License.
+
+## Contact
+
+For questions or support, please contact <jonny.nb.schult@gmail.com>
